@@ -1,32 +1,34 @@
 # 🎶 **TransArt - Tamil Audio Transcription, Translation & Art Generation**
 
+🌐 **Live Demo:** [TransArt App on Hugging Face 🚀](https://huggingface.co/spaces/14MaddY82/TransArt-App)
+
 ---
 
-## 🌟 **Project Overview**
-TransArt is a cutting-edge application that seamlessly integrates advanced AI models to perform Tamil audio transcription, English translation, image generation, and text generation. Powered by Groq API and Hugging Face's Stable Diffusion model, this app transforms audio content into creative outputs with ease.
+## 🌟 **About TransArt**
+TransArt is an innovative AI-powered application designed to handle Tamil audio transcription, English translation, image generation, and creative text generation. Built with Groq API and Hugging Face's Stable Diffusion model, it transforms audio content into artistic outputs.
 
 ---
 
 ## 🚀 **Key Features**
-✅ Tamil Audio to Text Transcription (Whisper Large v3)
-✅ Tamil Text to English Translation
-✅ English Text to Image Generation (Stable Diffusion 2)
-✅ English Text Generation (AI-Powered Creative Writing)
+- 🎤 Tamil Audio to Text Transcription (Whisper Large v3)
+- 🌐 Tamil Text to English Translation
+- 🖼️ English Text to Image Generation (Stable Diffusion 2)
+- 📝 English Text Generation (Creative Writing)
 
 ---
 
-## 🛠️ **Tech Stack**
-| Component           | Technology         |
-|-----------------|--------------------|
-| Language           | Python                |
-| UI Framework    | Gradio                |
-| API Integration | Groq API              |
-| Image Generation | Hugging Face API |
-| Image Handling | Pillow                  |
+## 🛠️ **Technology Stack**
+| Component            | Technology           |
+|----------------|--------------------|
+| Programming Language | Python              |
+| UI Framework          | Gradio               |
+| API Integration        | Groq API             |
+| Image Generation   | Hugging Face API |
+| Image Handling        | Pillow                    |
 
 ---
 
-## 📂 **File Structure**
+## 📂 **Project Structure**
 ```
 TransArt-App/
 │
@@ -73,7 +75,7 @@ HF_API_KEY=your_hugging_face_api_key
 
 ---
 
-## 🎯 **How to Run the App**
+## 🎯 **Running the App**
 ```bash
 python app.py
 ```
@@ -81,20 +83,20 @@ Access the Gradio interface via the link provided in the terminal.
 
 ---
 
-## 🎨 **Workflow**
-1️⃣ Upload Tamil audio.
-2️⃣ Get Tamil transcription.
-3️⃣ Translate to English.
-4️⃣ Generate an image or text based on the translation.
+## 🎨 **Workflow Overview**
+1️⃣ Upload Tamil audio. 🎵
+2️⃣ Get Tamil transcription. 📝
+3️⃣ Translate to English. 🌐
+4️⃣ Generate an image or text. 🖼️
 
 ---
 
-## ✅ **Example Output**
-| Input                 | Output                |
-|-----------------|---------------------|
+## ✅ **Sample Output**
+| Input                | Output                |
+|----------------|---------------------|
 | Tamil Audio 🎵 | "என் பெயர் பிரகதீஷ்" |
 | Translated Text 📜 | "My name is Pragadeesh" |
-| Generated Image 🖼️ | 🎨 Artistic visual |
+| Generated Image 🖼️ | 🎨 Artistic Visual |
 | Generated Text 📝 | "A creative story begins..." |
 
 ---
@@ -105,8 +107,8 @@ Access the Gradio interface via the link provided in the terminal.
 
 ---
 
-## 🤝 **Contributions**
-We welcome contributions! Feel free to fork and raise pull requests.
+## 🤝 **Contributing**
+We welcome contributions! Feel free to fork the repository and raise pull requests.
 
 ---
 
