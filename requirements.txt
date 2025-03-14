@@ -1,0 +1,4 @@
+gradio
+requests
+pillow
+groq
