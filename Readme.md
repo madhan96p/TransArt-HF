@@ -1,6 +1,6 @@
 # 🎶 **TransArt - Tamil Audio Transcription, Translation & Art Generation**
 
-🌐 **Live Demo:** [TransArt App on Hugging Face 🚀](https://huggingface.co/spaces/14MaddY82/TransArt-App)
+🌐 **Live Demo:** [🤗](https://huggingface.co/spaces/14MaddY82/TransArt-App)
 
 ---
 
